@@ -50,6 +50,6 @@ for(int i=0;i<c.length;i++){
 		}
 	
 	System.out.println("character is found" +occ + "number of times");
-      	System.out.println("character is found" +occ + "number of times");
+      	System.out.println("updating my test");
       	
 	}}*/
